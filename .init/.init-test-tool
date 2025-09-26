@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/greeting-response-template-144178-144187/react_js_frontend"
+}
